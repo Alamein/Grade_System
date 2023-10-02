@@ -11,7 +11,7 @@ Phy_Score = int(input('What is your Physics Score? '))
 Chm_Score = int(input('What is your Chemistry Score? '))
 Bio_Score = int(input('What is your Biology Score? '))
 print()
-print()
+
 # THE RESULT
 
 # ENGLISH
